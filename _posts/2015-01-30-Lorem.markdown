@@ -2,4 +2,4 @@
 layout: post
 ---
 <img src="/images/fulls/02.jpg" class="fit image">
-Giriş sayfası
+Sol alt
